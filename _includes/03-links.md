@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[LinkedInProfile](https://www.linkedin.com/in/sukhbir-singh-97a13346/)
