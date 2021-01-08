@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Welcome, have a Good Day
+# Let's have some fun
